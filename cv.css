@@ -1,7 +1,7 @@
 h1 {color: purple;}
 body{background-color: pink;}
 body{border:solid;}
-body {padding:6px;}
+body {padding:10px;}
 h2{color:blue;}
 
 
@@ -10,5 +10,6 @@ h2{color:blue;}
 .dates{color:purple; }
 .dates{font-weight: bold;}
 .dates{text-decoration:underline;}
+.postes{font-weight: bold;}
 .description_du_poste {font-style:italic;}
 .description_du_poste {font-size: 20px}
